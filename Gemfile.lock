@@ -315,6 +315,7 @@ DEPENDENCIES
   rails (~> 6.0.3, >= 6.0.3.7)
   sass-rails (>= 6)
   selenium-webdriver
+  shopify_api
   shopify_app (~> 18.0.1)
   simple_form
   spring
